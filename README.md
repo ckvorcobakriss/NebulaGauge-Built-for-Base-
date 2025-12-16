@@ -133,9 +133,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Author
 
-GitHub: https://github.com/your-handle
-Public contact (email): your-name@proton.me
-Public contact (X): https://x.com/your-handle
+GitHub https://github.com/ckvorcobakriss/
+Public contact (email): loppers.immune.0m@icloud.com
+Public contact (X): https://x.com/ckvorcobakris1
 
 ## References
 
