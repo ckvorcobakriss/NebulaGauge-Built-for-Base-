@@ -157,12 +157,12 @@ A smart contract has been deployed to the Base Sepolia test network for validati
 **Explorer:** https://sepolia.basescan.org  
 
 **Deployed contract address:**  
-0x2222222222222222222222222222222222222222  
+0x6de70c556866e9286783ae8db99e06fd6a3151ab 
 
 **Basescan deployment and verification links:**  
 - Contract address:  
-  https://sepolia.basescan.org/address/0x2222222222222222222222222222222222222222  
+  https://sepolia.basescan.org/address/0x6de70c556866e9286783ae8db99e06fd6a3151ab
 - Contract verification (source code):  
-  https://sepolia.basescan.org/0x2222222222222222222222222222222222222222/0#code  
+  https://sepolia.basescan.org/0x6de70c556866e9286783ae8db99e06fd6a3151ab/0#code  
 
 This deployment is used to validate Base-compatible tooling, account abstraction flows, and onchain read operations in a test environment prior to mainnet usage.
