@@ -106,19 +106,6 @@ Expected results:
 - Optional Basescan deployment and verification links for the provided contract address
 - Optional ERC-20 metadata and balance for the connected address
 
-## Base Mainnet Deployment
-
-Deployed on Base Mainnet
-
-Network: Base Mainnet
-chainId (decimal): 8453
-Explorer: https://basescan.org
-Deployed contract address: 0x1111111111111111111111111111111111111111
-
-Basescan deployment and verification links:
-Contract address: https://basescan.org/address/0x1111111111111111111111111111111111111111
-Contract verification (source code): https://basescan.org/address/0x1111111111111111111111111111111111111111#code
-
 ## License
 
 MIT License
